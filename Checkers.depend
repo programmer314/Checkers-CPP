@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1651826639 source:c:\users\marty\documents\programmed_files\cpp_save\checkers\main.cpp
+	<iostream>
+	<sstream>
+	"PlayerAI.h"
+
+1651827313 c:\users\marty\documents\programmed_files\cpp_save\checkers\include\playerai.h
+	<vector>
+	<unordered_map>
+
+1651820499 source:c:\users\marty\documents\programmed_files\cpp_save\checkers\src\playerai.cpp
+	"PlayerAI.h"
+	<vector>
+	<unordered_map>
+	<cfloat>
+	<algorithm>
+	<iostream>
+
